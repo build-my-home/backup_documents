@@ -1,0 +1,37 @@
+Checking 'working-make'... ok.
+Checking 'case-sensitive-fs'... ok.
+Checking 'gcc'... ok.
+Checking 'working-gcc'... ok.
+Checking 'g++'... ok.
+Checking 'working-g++'... ok.
+Checking 'ncurses'... ok.
+Checking 'zlib'... ok.
+Checking 'libssl'... ok.
+Checking 'tar'... ok.
+Checking 'find'... ok.
+Checking 'bash'... ok.
+Checking 'patch'... ok.
+Checking 'diff'... ok.
+Checking 'cp'... ok.
+Checking 'seq'... ok.
+Checking 'awk'... ok.
+Checking 'grep'... ok.
+Checking 'getopt'... ok.
+Checking 'stat'... ok.
+Checking 'md5sum'... ok.
+Checking 'unzip'... ok.
+Checking 'bzip2'... ok.
+Checking 'wget'... ok.
+Checking 'perl'... ok.
+Checking 'python'... ok.
+Checking 'svn'... ok.
+Checking 'git'... ok.
+Checking 'file'... ok.
+Checking 'openssl'... ok.
+Checking 'ldconfig-stub'... ok.
+Collecting package info: done
+Collecting target info: done
+configuration written to .config
+
+*** End of the configuration.
+*** Execute 'make' to start the build or try 'make help'.
