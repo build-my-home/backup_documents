@@ -1,0 +1,10 @@
+{
+"server":"sg2-start.openq.biz",
+"server_port":10943,
+"local_address":"127.0.0.1",
+"local_port":1080,
+"password":"CHIEH12345",
+"timeout":600,
+"method":"rc4-md5",
+"fast_open":false
+}
