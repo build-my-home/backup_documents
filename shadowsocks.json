@@ -1,10 +1,9 @@
 {
-"server":"sg2-start.openq.biz",
-"server_port":10943,
+"server" : "hk02-46.ssv5.net",
+"server_port" : 16191,
 "local_address":"127.0.0.1",
 "local_port":1080,
-"password":"CHIEH12345",
-"timeout":600,
-"method":"rc4-md5",
+"password" : "jA5baYJjWcNn",
+"method" : "aes-256-cfb",
 "fast_open":false
 }
